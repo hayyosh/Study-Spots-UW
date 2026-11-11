@@ -41,7 +41,7 @@ Group project with 4 teammates at the University of Washington.
 
 ## Research
 
-- **Methods:** [interviews / surveys, N = ___]
-- **Key findings:** [1-2 sentences on the main insights]
-- **How findings shaped the design:** [e.g., "Noise level was the top-ranked factor, so it became a primary filter"]
+- **Methods:** Interviewed 12 University of Washington students
+- **Key findings:** Many UW students struggle to find a study space near campus. They spend time searching for a spot that isn't overcrowded and has the amenities they need, and often only discover a space is unsuitable after they arrive.
+- **How findings shaped the design:** Students were frustrated by wasting time searching for a spot, traveling there, and finding out it wasn't the right fit. We designed the app so students can decide before they go: they enter their requirements (open now, Wi-Fi, outlets, noise level, cost) and see which spaces match best on a map and list.
 
