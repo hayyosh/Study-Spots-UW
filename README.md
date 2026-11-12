@@ -2,7 +2,7 @@
 
 UX research and prototype for a UW study-spot finder app: filter nearby cafes, libraries, and outdoor spaces by hours, Wi-Fi, outlets, noise level, and cost, with an interactive map. Built with Lovable.
 
-**[Interactive prototype](https://uw-study-buddy.lovable.app/)** · **[Research deck (Google Slides)](https://docs.google.com/presentation/d/1aOuedp2F7Np_Qb4821HMIQmZhLzSsJ2jOEZ6q378Rfg/edit?slide=id.p#slide=id.p)**
+**[Interactive prototype](https://uw-study-buddy.lovable.app/)** · **[Research deck (Google Slides)](https://drive.google.com/file/d/10XlnsMs7wZO0-eVTY5finO1WNujA8qoi/view?usp=sharing)**
 
 ## Problem
 
